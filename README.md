@@ -6,7 +6,6 @@
 ## About me
 - 🔭 I’m currently working on 
 Municipal Secretary of Education in Avaré/SP
-- 📫 How to reach me: ...
 - ⚡ Doing projects in JavaScript
 - 😄 Using React, TypeScript...
 
