@@ -1,5 +1,3 @@
-<img width='100' src="https://github.com/juuliana/juuliana/blob/master/octocatJu.png"/>
-
 <p align="center">
   <h2 align="center">  Hi there, welcome to my profile! 👋</h2>
   <h2 align="center">  My name is Juliana Ribeiro 💁‍♀</h2> 
