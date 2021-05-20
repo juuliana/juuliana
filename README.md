@@ -4,10 +4,9 @@
 </p>
 
 ## About me
-- 🔭 I’m currently working on 
-Municipal Secretary of Education in Avaré/SP
+- 🔭 I'm a programmer at TI Brazil in Avaré/SP
 - ⚡ Doing projects in JavaScript
-- 😄 Using React, TypeScript...
+- 😄 Using React, TypeScript and React Native
 
 ## Let's connect:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juuliana)](https://github.com/juuliana)
