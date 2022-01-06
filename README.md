@@ -7,7 +7,7 @@
 <div>
 
 ## About me
-- 🔭 I'm a programmer at TI Brazil in Avaré/SP
+- 🔭 I'm a programmer at OndePouso
 - ⚡ Doing projects in JavaScript
 - 😄 Using React, TypeScript and React Native
   
