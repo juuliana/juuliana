@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/juliana-dos-santos-ribeiro-b721b6197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ## 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,typescript,nodejs,figma,react,git,mongodb,mysql&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,typescript,nodejs,figma,react,git,mongodb,mysql&theme=light)](https://www.linkedin.com/in/juliana-dos-santos-ribeiro-b721b6197/)
   
 ##
 ![Snake animation](https://github.com/juuliana/juuliana/blob/output/github-contribution-grid-snake.svg)
