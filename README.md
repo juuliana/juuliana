@@ -1,5 +1,3 @@
-## Hi there, welcome to my profile! - My name is Juliana Ribeiro 💁‍
-
 <div>
   <a href="https://github.com/juuliana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juuliana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
